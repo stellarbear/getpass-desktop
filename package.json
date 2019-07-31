@@ -2,7 +2,7 @@
   "name": "getpass",
   "author": "stellarbear",
   "description": "stateless cross-platform password manager (generator)",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "private": true,
   "scripts": {
     "build": "yarn clear && vue-cli-service build",
